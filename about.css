@@ -1,0 +1,35 @@
+﻿
+pageheader {
+color:blue;
+font-size:170%;
+text-align:center;
+}
+
+
+nav
+{
+list-style-type:none;
+margin:20;
+padding:20;
+overflow:hidden;
+}
+li
+{
+float:right;
+padding-left: 20px;
+}
+a
+{
+display:inline;
+width:120px;
+}
+
+
+
+a:link {color:#8A2BE2;text-decoration:none;}
+a:hover {color:red;font-weight:bold;text-decoration:underline;}
+
+#wrap { 
+  width: 600px; 
+  margin: 0 auto; 
+}
